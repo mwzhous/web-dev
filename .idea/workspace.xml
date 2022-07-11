@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="book-online:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2dd33024-6ebd-4948-8714-8ec98dd4ff75" name="Default Changelist" comment="图书在线项目代码更新，改用监听器实现全局数据共享、统一处理请求地址">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-online/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/book-online/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-online/src/com/bo/listener/ContextLoaderListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/book-online/src/com/bo/listener/ContextLoaderListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-online/src/com/bo/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/book-online/src/com/bo/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-online/src/com/bo/servlet/BookDetailServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/book-online/src/com/bo/servlet/BookDetailServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-online/src/com/bo/servlet/IndexServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/book-online/src/com/bo/servlet/IndexServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-online/src/com/bo/servlet/LoginPageServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/book-online/src/com/bo/servlet/LoginPageServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-online/src/com/bo/servlet/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/book-online/src/com/bo/servlet/LoginServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-online/src/com/bo/servlet/LogoutServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/book-online/src/com/bo/servlet/LogoutServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-online/src/com/bo/servlet/UserPageServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/book-online/src/com/bo/servlet/UserPageServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-online/web/book_detail.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/book-online/web/book_detail.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-online/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/book-online/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-online/web/logout.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/book-online/web/top.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/book-online/web/top.jsp" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="WARN_ABOUT_CRLF" value="false" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1RNIeVOTWpKW47tgb4n2gorG9Ct" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/book-online/web" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bo.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\JavaWeb\web-dev\book-online\web" />
+      <recent name="E:\JavaWeb\web-dev\quickstart\src\com\quickstart\http" />
+      <recent name="F:\web-dev\book-online\web" />
+      <recent name="F:\web-dev\book-online\web\images" />
+      <recent name="F:\web-dev\book-online\web\css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.24">
+    <configuration name="BookService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.bo.service.BookService" />
+      <module name="book-online" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bo.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MockHttp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.quickstart.http.MockHttp" />
+      <module name="quickstart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.quickstart.http.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.24" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.24" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="book-online:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_24_web-dev_3" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="56062" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="book-online:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MockHttp" />
+        <item itemvalue="Application.BookService" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2dd33024-6ebd-4948-8714-8ec98dd4ff75" name="Default Changelist" comment="" />
+      <created>1569501221877</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569501221877</updated>
+      <workItem from="1569501226654" duration="13538000" />
+      <workItem from="1569590882408" duration="400000" />
+      <workItem from="1569591313713" duration="10766000" />
+    </task>
+    <task id="LOCAL-00001" summary="web-dev项目初始化两个模块：quickstart和book-online">
+      <created>1569502761363</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1569502761363</updated>
+    </task>
+    <task id="LOCAL-00002" summary="quickstart模块完成按照用户名和密码进行登录跳转，用session保持用户登录状态">
+      <created>1569504081252</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1569504081252</updated>
+    </task>
+    <task id="LOCAL-00003" summary="quickstart模块完成服务端转发数据至目标页面渲染——学生信息列表展示功能，并补充本模块的README.md文件">
+      <created>1569504966066</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1569504966066</updated>
+    </task>
+    <task id="LOCAL-00004" summary="book-online模块完成登录、首页、个人中心、书籍详情页面的后台代码和页面代码">
+      <created>1569515112615</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1569515112615</updated>
+    </task>
+    <task id="LOCAL-00005" summary="MockHttp代码补推">
+      <created>1569591423991</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1569591423991</updated>
+    </task>
+    <task id="LOCAL-00006" summary="更新代码注释">
+      <created>1569594424118</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1569594424118</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="web-dev项目初始化两个模块：quickstart和book-online" />
+    <MESSAGE value="quickstart模块完成按照用户名和密码进行登录跳转，用session保持用户登录状态" />
+    <MESSAGE value="quickstart模块完成服务端转发数据至目标页面渲染——学生信息列表展示功能，并补充本模块的README.md文件" />
+    <MESSAGE value="book-online模块完成登录、首页、个人中心、书籍详情页面的后台代码和页面代码" />
+    <MESSAGE value="MockHttp代码补推" />
+    <MESSAGE value="更新代码注释" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新代码注释" />
+  </component>
+</project>
